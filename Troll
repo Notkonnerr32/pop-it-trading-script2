@@ -1,0 +1,260 @@
+local args = {
+    [1] = "100k"
+}
+wait(2)
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+
+local args = {
+    [1] = "baila"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "fotito"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "pájaro"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "******"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "throne"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+
+wait(2)
+local args = {
+    [1] = "throne"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "m0dn4r"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+
+wait(2)
+local args = {
+    [1] = "1337"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "gub"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "lightemup"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "wth"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "pineapple"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "portal"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "farmer"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "gub"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "code"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "upupup"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "90sec"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "noclip"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "trippy"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "naughtyornice"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "kitty"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "stuffi"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "armor?"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "sugar"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "cupid"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "no"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "tako"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "tony"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "Loot"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "buff"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "2022"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "chance"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "juaniday2021"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "sus"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "quidditch"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "spooky21"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "eeek"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "Squid"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "gummy"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "lasagna"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "pepto"
+}
+
+game:GetService("ReplicatedStorage").RemoteEvents.RequestCode:FireServer(unpack(args))
+wait(2)
