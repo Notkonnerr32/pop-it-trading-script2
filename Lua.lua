@@ -302,14 +302,6 @@ MainTab:AddButton({
 })
 
 local Tab = Window:MakeTab({
-	Name = "Other",
+	Name = "Thanks for using ;)",
 	Icon = "rbxassetid://4483345998",
-	PremiumOnly = false
-})
-
-OtherTab:AddButton({
-	Name = "Button that does nothing at all",
-	Callback = function()
-      		Print("Nothing")
-  	end    
-})
+	PremiumOnly = true
